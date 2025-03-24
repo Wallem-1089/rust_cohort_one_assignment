@@ -18,7 +18,7 @@ fn main() {
             println!("{} passed", element);
         }
     }
-    println!("{}", fail_count);
+    println!("This is the number of people who failed {}", fail_count);
     
 
 
